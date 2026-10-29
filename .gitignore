@@ -1,0 +1,22 @@
+
+# Dependencies
+/node_modules/
+
+# Next.js
+/.next/
+/out/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Vercel
+/.vercel/
+
+# Private voter access codes
+/voter-codes-private.txt
+/voter-codes.csv
+
+# Local files
+.DS_Store
